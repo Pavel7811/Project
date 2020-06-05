@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>MoLi</title>
+ </head>
+
+<style>
+   body {
+    background: #efefef;
+   }
+</style>
+
+<style type="text/css"> 
+.text img {
+width: 35%;
+height: auto;
+}
+</style>
+
+
+
+<style>
+   h1 {
+    font-family: Verdana, Arial, Helvetica, sans-serif; /* Рубленый шрифт заголовка */
+	font-size: 260%;
+   } 
+   p {
+    font-family: 'Times New Roman'; /* Шрифт с засечками */
+    font-style: italic; /* Курсивное начертание */
+	font-size: 260%;
+   }
+   
+   hr {
+    border: none; /* Убираем границу */
+    background-color: blue; /* Цвет линии */
+    color: blue; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+   }
+</style>
+
+<body> 
+	<div class="text">
+		<H1><center> MoLi </center></H1>
+		<H2><center> Movement is life </center></H2>
+	
+		<center>
+			<img src="1.png" height="10" width="10"/>
+		</center> 
+	</div>
+
+<br> <br> 
+
+<div class="text">
+		<hr>
+		<h1 align="left"> Актуальность </h1>
+		<hr>
+		<p align="left"> <img src="2.png" height="100" width="100" align="left" vspace="5" hspace="5">
+		
+		В наше время многие ведут малоподвижный образ жизни. Это сказывается на здоровье и внешнем виде людей.
+		Из-за гиподинамии ухудшается иммунитет, появляется лишний вес, портится фигура.
+		Это в свою очередь может сказываться на психологическом здоровье, у некоторых развиваются комплексы по поводу внешнего вида.
+		В итоге, многие не находят достаточно мотивации и времени, чтобы тренироваться в зале.
+		</p>
+</div>
+
+<br> <br> 
+<div class="text">
+		<hr>
+		<h1 align="right"> Наше решение </h1>
+		<hr>
+		<p align="center-right"> <img src="3.png" height="100" width="100" align="right" vspace="5" hspace="5">
+		
+		Физическая активность в доме и рядом с ним.
+		Исходя из ваших параметров, таких как рост, вес, фигура (анализируется на основе фотографии), образ жизни, 
+		система на основе AI подбирает для вас оптимальные упражнения, нагрузку во время тренировок и рацион питания. 
+		В процессе ваших достижений, система будет корректировать индивидуальный план. 
+		</p>
+</div>
+
+<br> <br> <br> <br>
+
+<div class="text">
+		<hr>
+		<h1 align="right"> Идея проекта </h1>
+		<hr>
+		<p align="center-right"> <img src="4.png" height="100" width="100" align="right" vspace="5" hspace="5">
+		
+		Основная идея проекта — персональный тренер и помощник пользователя на основе AI. 
+		В приложение будет внедрен соревновательный элемент («турнирная таблица») и система оценки достижений пользователей. 
+ 
+		</p>
+</div>
+
+<br> <br> <br> <br> <br> <br> <br> <br>
+
+<style> 
+.text1 img {
+width: auto;
+height: 40%;
+}
+</style>
+
+<div class="text">
+		<hr>
+		<h1 align="right"> Прототипы интерфейса </h1>
+		<hr>
+</div>
+
+<div class="text1">
+	<p> <center>
+		<img src="5.jpg" align="top">
+		<img src="6.jpg" align="top">
+		<img src="7.jpg" align="top">
+		<img src="8.jpg" align="top">
+		<img src="9.jpg" align="top">
+		</center>
+	</p>
+</div>
+
+<div class="text">
+		<hr>
+		<h1 align="right"> Наша цель </h1>
+		<hr>
+		<p align="center-right"> <img src="10.png" height="100" width="100" align="right" vspace="5" hspace="5">
+		
+		Наш продукт должен помочь своим пользователям справиться с гиподинамией и проблемами, 
+		вытекающими из нее, а также предоставить им новый опыт и качество жизни.
+		</p>
+</div>
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+
+<div class="text">
+		<hr>
+		<h1 align="right"> Поставленные задачи </h1>
+		<hr>
+		
+		<p align="center"> <img src="11.png" height="100" width="100" align="right" vspace="5" hspace="5">
+		1) создание уникального алгоритма AI <br>
+		2) изучение возможных путей мотивации и поощрения пользователей <br>
+        3) разработка мобильного приложения с интуитивным UI <br>
+		</p>
+</div>
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+
+<div class="text">
+		<hr>
+		<h1 align="right"> Компания или просто продукт </h1>
+		<hr>
+		
+		<p align="center"> <img src="12.png" height="100" width="100" align="right" vspace="5" hspace="5">
+		Мы представляем универсальный продукт для мобильных устройств, 
+		призванный помочь людям улучшить свой образ жизни.
+		Движение это жизнь!
+		</p>
+</div>
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+</body>
+ 
+</html>
